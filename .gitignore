@@ -1,0 +1,27 @@
+# SSL Certificates (excluded for security)
+certs/
+*.crt
+*.key
+*.csr
+*.pem
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+*.log.gz
+
+# Environment files
+.env
+.env.local
+.env.production.local
+
+# Build outputs
+dist/
+dist-new/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
