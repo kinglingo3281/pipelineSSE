@@ -1,3 +1,5 @@
+> **Public portfolio snapshot:** This repository is a sanitized export of selected components from a larger private production system developed between 2023 and 2026. Original Git history, production credentials, user information, private endpoints, proprietary logic, restricted integrations, internal infrastructure, and some newer revisions are intentionally excluded. The public commit demonstrates selected architecture and implementation work; it does not represent the original development timeline or a complete production deployment.
+
 # SSE Signal Server
 
 Real-time Server-Sent Events (SSE) server that aggregates trading signals from multiple pipelines and streams them to connected clients.
