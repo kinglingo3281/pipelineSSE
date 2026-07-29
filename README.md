@@ -2,6 +2,8 @@
 
 # SSE Signal Server
 
+[![CI](https://github.com/kinglingo3281/pipelineSSE/actions/workflows/ci.yml/badge.svg)](https://github.com/kinglingo3281/pipelineSSE/actions/workflows/ci.yml)
+
 Real-time Server-Sent Events (SSE) server that aggregates trading signals from multiple pipelines and streams them to connected clients.
 
 ## Architecture Overview
